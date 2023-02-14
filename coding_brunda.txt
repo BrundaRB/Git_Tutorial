@@ -2,8 +2,6 @@ Hi I'm Brunda and this is my first line of code
 This is second line written by Brunda
 gibrish added y runda
 asdfghvcvasdhguiq anjkadgiusyiucf
-<<<<<<< HEAD
 5th line added by me
-=======
-Ananya is adding 5th line of code.
->>>>>>> a42e75f0a1f44859544ae58f340dba0b50db4e97
+Ananya is adding 6th line of code.
+&th line adding in auth mod branch
